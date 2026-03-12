@@ -14,5 +14,16 @@ Python
 HTML
 SQLite
 
-Purpose:
+## Project Structure
+student-record-management
+│
+├── app.py
+├── database.db
+│
+├── templates
+│   ├── index.html
+│   ├── add.html
+│   └── edit.html
+
+ ## Purpose:
 This project was developed to practice basic programming concepts and database operations.
